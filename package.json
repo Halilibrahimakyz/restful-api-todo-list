@@ -15,5 +15,9 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.12.7",
     "morgan": "~1.9.1"
+  },
+  "DevDpendencies": {
+
+    "NPM_CONFIG_PRODUCTION": false
   }
 }
